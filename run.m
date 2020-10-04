@@ -35,4 +35,6 @@ for i = 1:y1
 end
 
 figure, imshow(finalimage, []);
+imwrite(finalimage, 'sample_processed.jpg');
+
 
