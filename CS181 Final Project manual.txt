@@ -1,0 +1,9 @@
+CS181 Final Project 
+Tianyuan Cai & Sara Gong
+
+"untitled3.m" is the main file, and cartoon function does the edge detection and 
+luminance quantization. Load these two files together with the sample image into the matlab folder and run "untitled3.m" file. The cartoon function is based on Holger Winnemoller, Sven C. Olsen, and Bruce Gooch. Real-Time Video Abstraction. In Proceedings of ACM SIGGRAPH, 2006. The methods are then modified by Sara and I based on Douglas R. Lanman's codes published on MathWorks. Possibly due to issues related to our matlab, we are unable to change the main file's name
+to anything other than "untitled3.m". 
+
+Best, 
+Tian & Sara
